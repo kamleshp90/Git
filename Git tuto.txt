@@ -1,5 +1,5 @@
-git config
-git init
+git config : This command sets the author name and email address respectively to be used with your commits.
+git init : This command is used to start a new repository.
 git clone
 git add
 git commit
