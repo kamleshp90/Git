@@ -1,7 +1,7 @@
 git config
 git init
-git clone
-git add
+git clone : This command is used to obtain a repository from an existing URL.
+git add : This command adds a file to the staging area.
 git commit
 git diff
 git reset
