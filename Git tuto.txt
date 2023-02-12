@@ -1,9 +1,14 @@
 git config : This command sets the author name and email address respectively to be used with your commits.
 git init : This command is used to start a new repository.
-git clone
-git add
+
 git commit : This command records or snapshots the file permanently in the version history.
 git diff : This command shows the file differences which are not yet staged.
+
+
+
+
+
+
 git reset
 git status
 git rm
